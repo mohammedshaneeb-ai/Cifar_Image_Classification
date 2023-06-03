@@ -1,1 +1,1 @@
-# Ciraf_Image_Classification
+# cifar Image Classification
